@@ -66,4 +66,3 @@ How to Run
 Conclusion
 
 The Registration Form System is a user-friendly application that allows students to register their details and an admin to manage and view the registered student records. It demonstrates basic database interaction using MySQL Connector in Python and offers a simple, command-line-based user interface for ease of use. The system can be extended and customized further to meet specific requirements of a larger registration management system.
-
