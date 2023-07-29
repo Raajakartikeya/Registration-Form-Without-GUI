@@ -10,7 +10,7 @@ The project consists of a single Python script containing multiple functions and
 
 Files
 
-•   registration_form.py: The main Python script containing all the functions and the user interface.
+•   main.py: The main Python script containing all the functions and the user interface.
 
 Requirements
 
